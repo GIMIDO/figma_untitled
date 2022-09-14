@@ -773,6 +773,19 @@ ul li > a:hover {
   color: #fff;
 }
 
+.header_items,
+.deliver_items,
+.about-us_items,
+.instruction_items,
+.menu_items,
+.call-us_items,
+.order_items,
+.see-faq_items,
+.footer_items {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
 /* PHONE */
 @media screen and (orientation: portrait) {
   :root {
